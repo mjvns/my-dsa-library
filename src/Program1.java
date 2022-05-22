@@ -37,3 +37,15 @@ public class Program1 {
         }
     }
 }
+
+/*
+Output:
+5 Harish
+4 Shyam
+1 Ram
+2 Ram
+3 Ram
+
+Process finished with exit code 0
+*/
+
